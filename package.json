@@ -1,0 +1,19 @@
+{
+  "name": "meetup",
+  "version": "0.0.0",
+  "description": "Tech@NYU Meetup API",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/TechAtNYU/meetup-service.git"
+  },
+  "author": "Philip Ottesen",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/TechAtNYU/meetup-service/issues"
+  },
+  "homepage": "https://github.com/TechAtNYU/meetup-service",
+  "dependencies": {
+    "superagent": "^1.1.0"
+  }
+}
